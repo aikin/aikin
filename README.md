@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+⚡ Keep Thinking, Keep Funny
+
 <!--
 **aikin/aikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
